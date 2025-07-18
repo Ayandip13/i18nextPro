@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View, Button } from 'react-native';
-import './locales/i18n.js'; // import the i18n config
+import './locales/i18n.ts'; // import the i18n config
 import { useTranslation } from 'react-i18next';
 
 export default function App() {
